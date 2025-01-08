@@ -9,4 +9,5 @@ def text_reverse(text):
         return ' '.join(reversed_list)
 text =input("Enter the text: ")
 result = text_reverse(text)
-print(f"The reversed text is : {result}")        
+print(f"The reversed text is : {result}")   
+     
